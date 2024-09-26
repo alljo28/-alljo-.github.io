@@ -6,19 +6,22 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Online Vibes
 
 # Your name to show in the footer
-author: Some Person
+author: Aurora Allen-Jones
+
+# Short description of your site
+description: A virtual proof that I'm awesome and coding is cool
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: ""
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: ""
+    - Learn markdown: ""
+  Author's home: ""
 
 # --- Logo --- #
 
@@ -102,8 +105,8 @@ post_search: true
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#6e5494"
+text-col: "#6cc644"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
