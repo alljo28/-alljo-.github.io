@@ -1094,3 +1094,11 @@ pre {
     display: inline-block;
   }
 }
+
+ .gs-section-01 h3 { 
+   color: purple
+}
+
+.gs-section-02 h3 { 
+   color: yellow
+}
